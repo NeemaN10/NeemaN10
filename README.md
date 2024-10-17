@@ -1,3 +1,6 @@
+<img src="https://www.imghippo.com/i/VW2wJ1729195520.jpg" alt="AI Engineer" width="400" />
+
+
 # 💫 About Me:
 
 👨‍💻 I'm currently working on AI and Machine Learning projects<br>
