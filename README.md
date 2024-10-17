@@ -1,4 +1,4 @@
-<img src="https://www.imghippo.com/i/VW2wJ1729195520.jpg" alt="AI Engineer" width="400" />
+<img src="https://i.imgur.com/P7mp5zk.jpeg" alt="AI Engineer" width="400" />
 
 
 # 💫 About Me:
