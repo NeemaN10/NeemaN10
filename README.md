@@ -1,4 +1,4 @@
-<img src="https://neemankutty.uk/wp-content/uploads/2024/10/logo-for-with-ai-enthusiastic-fuel-of-ai.png" alt="AI Engineer" />
+<img src="https://i.imgur.com/P7mp5zk.jpeg" alt="AI Engineer" />
 
 
 # 💫 About Me:
